@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning operations
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me akashroy.roy20@gmail.com
+- 📫 Please contact me through akashroy.roy22@gmail.com
 
 <!---
 akashroy20/akashroy20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
